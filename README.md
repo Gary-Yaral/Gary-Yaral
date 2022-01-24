@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gary-Yaral
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a software developer.
+- 🌱 I’m learning new technologies of Frontend and Backend daily.
+
 
 <!---
 Gary-Yaral/Gary-Yaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
